@@ -1,0 +1,20 @@
+body {
+  margin: 6%;
+  background-color: silver;
+}
+
+title {
+  padding:0px;
+}
+
+#Ignatius {
+  display: block;
+  width: 70%;
+  height: auto%;
+  margin: 0 auto;
+}
+
+.quotes {
+  font-style: italic;
+  
+};
